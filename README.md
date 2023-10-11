@@ -7,7 +7,7 @@ This project sets up a load testing environment with [k6](https://k6.io/), monit
 - [Architecture](#architecture)
 - [Getting Started](#getting-started)
 - [Services](#services)
-- [Contributing](#contributing)
+- [Notes](#notes)
 - [License](#license)
 
 ## Architecture 🏗
@@ -28,7 +28,7 @@ This project sets up a load testing environment with [k6](https://k6.io/), monit
 1. **Clone the repository**:
 
     ```bash
-    git clone <your-repo-link> && cd <your-repo-name>
+    git clone https://github.com/MadMowgli/K6_OpenStack.git && cd K6_OpenStack
     ```
 
 2. **Build and run the services**:
