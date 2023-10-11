@@ -72,5 +72,3 @@ This project sets up a load testing environment with [k6](https://k6.io/), monit
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ---
-
-This should give a good starting point for your `README.md`. You can always expand on specific sections, add screenshots, or customize it further to better suit the needs and characteristics of your project. Happy coding! 🎉
